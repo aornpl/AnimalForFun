@@ -5,6 +5,6 @@
     <dimen name="h2">16sp</dimen>
     <dimen name="my_image">150dp</dimen>
     <dimen name="my_margin">15dp</dimen>
-    <dimen name="my_ivon_valume">40dp</dimen>
+    <dimen name="my_icon_valume">40dp</dimen>
 
 </resources>
